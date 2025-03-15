@@ -68,7 +68,7 @@ export default function Search() {
           </a>
           🦇 and is on{" "}
           <a
-            href="https://github.com/sarahatesyou/sadies-weather-app"
+            href="https://github.com/sarahatesyou/sadies-weather-react"
             target="_blank"
             rel="noreferrer"
           >
@@ -76,7 +76,7 @@ export default function Search() {
           </a>
           and hosted on{" "}
           <a
-            href="https://main--sadiesweatherapp.netlify.app/"
+            href="https://sadies-weather-react-app.netlify.app/"
             target="_blank"
             rel="noreferrer"
           >
@@ -111,7 +111,7 @@ export default function Search() {
           </a>
           🦇 and is on{" "}
           <a
-            href="https://github.com/sarahatesyou/sadies-weather-app"
+            href="https://github.com/sarahatesyou/sadies-weather-react"
             target="_blank"
             rel="noreferrer"
           >
@@ -119,7 +119,7 @@ export default function Search() {
           </a>
           and hosted on{" "}
           <a
-            href="https://main--sadiesweatherapp.netlify.app/"
+            href="https://sadies-weather-react-app.netlify.app/"
             target="_blank"
             rel="noreferrer"
           >
