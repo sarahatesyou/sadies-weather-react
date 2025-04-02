@@ -20,6 +20,9 @@ body {
   left: 50%;
   transform: translateX(-50%);
 }
+main {
+  padding: 0px 0px 50px 0px;
+}
 
 header {
   display: flex;
@@ -147,4 +150,23 @@ footer {
 
 a {
   color: #bea0ba;
+}
+
+.current-details {
+  color: #333333;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.current-details strong {
+  color: #bea0ba;
+}
+
+.current-weather h1 strong {
+  color: #52406d;
+}
+
+.current-temperature {
+  font-size: 68px;
 }
