@@ -10,5 +10,9 @@ export default function FormattedDate(props) {
   ];
   let day = days[props.date.getDay()];
 
+  if (props.short) {
+    day = day.substring(0, 3);
+  }
+
   return `${day}`;
 }

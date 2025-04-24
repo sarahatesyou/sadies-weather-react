@@ -1,0 +1,13 @@
+.WeatherForecast {
+  text-align: center;
+}
+
+.WF-temp-min {
+  opacity: 0.5;
+}
+
+.WeatherForecast h1 {
+  color: #52406d;
+  font-weight: bold;
+  padding-bottom: 25px;
+}
